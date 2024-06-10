@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Geyang Liu</title>
-    <link>https://lightningale.github.io/projects/</link>
+    <link>https://g-liu.org/projects/</link>
     <description>Recent content in Projects on Geyang Liu</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lightningale.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://g-liu.org/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unity - Procedural Spider Animation</title>
-      <link>https://lightningale.github.io/projects/unity---procedural-spider-animation/</link>
+      <link>https://g-liu.org/projects/unity---procedural-spider-animation/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://lightningale.github.io/projects/unity---procedural-spider-animation/</guid>
+      <guid>https://g-liu.org/projects/unity---procedural-spider-animation/</guid>
       <description>A project that procedurally animates a spider&amp;rsquo;s movements in Unity. The system uses a simplified implementation of forward and backward chaining inverse kinematics to control the spider’s leg movements. It is capable of managing complex terrains, including slopes, stairs, crevices and vertical walls.&#xA;Code available on GitHub.</description>
     </item>
     <item>
       <title>C&#43;&#43; - Basic Raytracer</title>
-      <link>https://lightningale.github.io/projects/c&#43;&#43;---basic-raytracer/</link>
+      <link>https://g-liu.org/projects/c&#43;&#43;---basic-raytracer/</link>
       <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://lightningale.github.io/projects/c&#43;&#43;---basic-raytracer/</guid>
+      <guid>https://g-liu.org/projects/c&#43;&#43;---basic-raytracer/</guid>
       <description>A simple c++ raytracer that performs ray tracing on ellipsoids, calculating ads, shadows and reflection. It parses in data of data, light sources and ellipsoids from input file, and outputs the rendered image in ppm format.&#xA;Code available on GitHub.</description>
     </item>
     <item>
       <title>WebGL - Necrozma Animation</title>
-      <link>https://lightningale.github.io/projects/webgl---necrozma-animation/</link>
+      <link>https://g-liu.org/projects/webgl---necrozma-animation/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://lightningale.github.io/projects/webgl---necrozma-animation/</guid>
+      <guid>https://g-liu.org/projects/webgl---necrozma-animation/</guid>
       <description>This is a WebGL script animation written with javascript and GLSL shader, featuring the pokemon Ultra Necrozma. Necrozma&amp;rsquo;s body consists of cone, cube, sphere and pyramid shapes drawn with javascript, and GLSL is used to color the attack and Earth&amp;rsquo;s texture being replaced by fire.&#xA;Code available on GitHub.</description>
     </item>
     <item>
       <title>Blender - Gundam Barbatos</title>
-      <link>https://lightningale.github.io/projects/blender---gundambarbatos/</link>
+      <link>https://g-liu.org/projects/blender---gundambarbatos/</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://lightningale.github.io/projects/blender---gundambarbatos/</guid>
+      <guid>https://g-liu.org/projects/blender---gundambarbatos/</guid>
       <description>A blender scene animation featuring ASW-G-08 Gundam Barbatos.</description>
     </item>
     <item>
       <title>Unity - GhostBuster</title>
-      <link>https://lightningale.github.io/projects/unity---ghostbuster/</link>
+      <link>https://g-liu.org/projects/unity---ghostbuster/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://lightningale.github.io/projects/unity---ghostbuster/</guid>
+      <guid>https://g-liu.org/projects/unity---ghostbuster/</guid>
       <description>This is a submission for GMTK Game Jam 2023. The player must avoid the sight and pursuit of ghosts at night and hunt them down in daytime.&#xA;Available on Itch.io.</description>
     </item>
     <item>
       <title>Unity - Platina</title>
-      <link>https://lightningale.github.io/projects/unity---platina/</link>
+      <link>https://g-liu.org/projects/unity---platina/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://lightningale.github.io/projects/unity---platina/</guid>
+      <guid>https://g-liu.org/projects/unity---platina/</guid>
       <description>This is an experimental metroidvania game with the purpose of testing AI controlled allies/enemies and integrating Spine animation in Unity. Player can switch between two controllable characters, where the AI controlled ally will follow actions of the player. The characters and enemies are drawn in Photoshop and animated with Spine. Available on Itch.io.</description>
     </item>
   </channel>

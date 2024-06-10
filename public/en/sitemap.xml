@@ -2,81 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lightningale.github.io/projects/unity---procedural-spider-animation/</loc>
+    <loc>https://g-liu.org/projects/unity---procedural-spider-animation/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lightningale.github.io/projects/c&#43;&#43;---basic-raytracer/</loc>
+    <loc>https://g-liu.org/projects/c&#43;&#43;---basic-raytracer/</loc>
     <lastmod>2023-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lightningale.github.io/projects/webgl---necrozma-animation/</loc>
+    <loc>https://g-liu.org/projects/webgl---necrozma-animation/</loc>
     <lastmod>2023-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lightningale.github.io/projects/blender---gundambarbatos/</loc>
+    <loc>https://g-liu.org/projects/blender---gundambarbatos/</loc>
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lightningale.github.io/projects/unity---ghostbuster/</loc>
+    <loc>https://g-liu.org/projects/unity---ghostbuster/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lightningale.github.io/projects/unity---platina/</loc>
+    <loc>https://g-liu.org/projects/unity---platina/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lightningale.github.io/about/</loc>
+    <loc>https://g-liu.org/about/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lightningale.github.io/</loc>
+    <loc>https://g-liu.org/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lightningale.github.io/fr/"
+                href="https://g-liu.org/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightningale.github.io/"
+                href="https://g-liu.org/"
                 />
   </url><url>
-    <loc>https://lightningale.github.io/series/hugo-101/</loc>
+    <loc>https://g-liu.org/series/hugo-101/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lightningale.github.io/projects/</loc>
+    <loc>https://g-liu.org/projects/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lightningale.github.io/series/</loc>
+    <loc>https://g-liu.org/series/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lightningale.github.io/fr/series/"
+                href="https://g-liu.org/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightningale.github.io/series/"
+                href="https://g-liu.org/series/"
                 />
   </url><url>
-    <loc>https://lightningale.github.io/categories/</loc>
+    <loc>https://g-liu.org/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lightningale.github.io/fr/categories/"
+                href="https://g-liu.org/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightningale.github.io/categories/"
+                href="https://g-liu.org/categories/"
                 />
   </url><url>
-    <loc>https://lightningale.github.io/tags/</loc>
+    <loc>https://g-liu.org/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lightningale.github.io/fr/tags/"
+                href="https://g-liu.org/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lightningale.github.io/tags/"
+                href="https://g-liu.org/tags/"
                 />
   </url>
 </urlset>
