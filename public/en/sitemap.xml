@@ -2,81 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-site/projects/unity---procedural-spider-animation/</loc>
+    <loc>https://lightningale.github.io/projects/unity---procedural-spider-animation/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-site/projects/c&#43;&#43;---basic-raytracer/</loc>
+    <loc>https://lightningale.github.io/projects/c&#43;&#43;---basic-raytracer/</loc>
     <lastmod>2023-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-site/projects/webgl---necrozma-animation/</loc>
+    <loc>https://lightningale.github.io/projects/webgl---necrozma-animation/</loc>
     <lastmod>2023-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-site/projects/blender---gundambarbatos/</loc>
+    <loc>https://lightningale.github.io/projects/blender---gundambarbatos/</loc>
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-site/projects/unity---ghostbuster/</loc>
+    <loc>https://lightningale.github.io/projects/unity---ghostbuster/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-site/projects/unity---platina/</loc>
+    <loc>https://lightningale.github.io/projects/unity---platina/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-site/about/</loc>
+    <loc>https://lightningale.github.io/about/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-site/</loc>
+    <loc>https://lightningale.github.io/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/my-site/fr/"
+                href="https://lightningale.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/my-site/"
+                href="https://lightningale.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/my-site/series/hugo-101/</loc>
+    <loc>https://lightningale.github.io/series/hugo-101/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-site/projects/</loc>
+    <loc>https://lightningale.github.io/projects/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-site/series/</loc>
+    <loc>https://lightningale.github.io/series/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/my-site/fr/series/"
+                href="https://lightningale.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/my-site/series/"
+                href="https://lightningale.github.io/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/my-site/categories/</loc>
+    <loc>https://lightningale.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/my-site/fr/categories/"
+                href="https://lightningale.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/my-site/categories/"
+                href="https://lightningale.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/my-site/tags/</loc>
+    <loc>https://lightningale.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/my-site/fr/tags/"
+                href="https://lightningale.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/my-site/tags/"
+                href="https://lightningale.github.io/tags/"
                 />
   </url>
 </urlset>

@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-site/fr/categories/</loc>
+    <loc>https://lightningale.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/my-site/categories/"
+                href="https://lightningale.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/my-site/fr/categories/"
+                href="https://lightningale.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/my-site/fr/</loc>
+    <loc>https://lightningale.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/my-site/"
+                href="https://lightningale.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/my-site/fr/"
+                href="https://lightningale.github.io/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/my-site/fr/series/</loc>
+    <loc>https://lightningale.github.io/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/my-site/series/"
+                href="https://lightningale.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/my-site/fr/series/"
+                href="https://lightningale.github.io/fr/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/my-site/fr/tags/</loc>
+    <loc>https://lightningale.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/my-site/tags/"
+                href="https://lightningale.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/my-site/fr/tags/"
+                href="https://lightningale.github.io/fr/tags/"
                 />
   </url>
 </urlset>
