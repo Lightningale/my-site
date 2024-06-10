@@ -1,4 +1,4 @@
-baseURL = "https://lightningale.github.io/my-site/"
+baseURL = "https://lightningale.github.io"
 title   = "Geyang Liu"
 languageCode = "en-us"
 theme = "hello-friend-ng"
