@@ -53,7 +53,7 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "A unity Developer's homepage"
   keywords = ""
   images = [""]
 

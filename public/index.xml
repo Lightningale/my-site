@@ -56,7 +56,7 @@
       <link>https://g-liu.org/about/</link>
       <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://g-liu.org/about/</guid>
-      <description>Hello, I am Geyang Liu, a computer science student at the University of Victoria. My most commonly used languages are C++, C# and python, and I&amp;rsquo;m familiar with tools including Visual Studio and Git.&#xA;My studies lean toward fields of computer graphics and data science. I&amp;rsquo;m familiar with data analysis and model training using python libraries, and delved into fields of computer graphics including ray tracing and procedural animation.&#xA;I&amp;rsquo;ve worked with various companies on fields of VR simulation and gained extensive experience with Unity, Object-Oriented-Programming and AGILE methodologies.</description>
+      <description>Hello, I am Geyang Liu, a computer science student at the University of Victoria. My most commonly used languages are C++, C# and python, and I&amp;rsquo;m familiar with tools including Visual Studio and Git.&#xA;My studies lean toward fields of computer graphics and data science. I&amp;rsquo;m familiar with data analysis and model training using python libraries including PyTorch and scikit-learn, and delved into fields of computer graphics including ray tracing and procedural animation.</description>
     </item>
   </channel>
 </rss>
