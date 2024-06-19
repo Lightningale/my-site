@@ -14,7 +14,7 @@ aliases:
 - /blog/migrate-from-jekyll/
 ---
 
-A simple c++ raytracer that performs ray tracing on ellipsoids, calculating ads, shadows and reflection. It parses in data of data, light sources and ellipsoids from input file, and outputs the rendered image in ppm format.
+A simple C++ raytracer that performs ray tracing on ellipsoids, calculating ads, shadows and reflection. It parses in data of camera, light sources and ellipsoids from input file, and outputs the rendered image in ppm format.
 
 ![Rainbow](/raytraceRainbow.jpg)
 

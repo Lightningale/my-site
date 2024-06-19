@@ -18,5 +18,5 @@ A project that procedurally animates a spider's movements in Unity. The system u
 
 ![Spider](/spiderCover.png)
 
-Code available on [GitHub](https://github.com/Lightningale/Procedural-Spider-Animation).
+Project available on [GitHub](https://github.com/Lightningale/Procedural-Spider-Animation).
 
